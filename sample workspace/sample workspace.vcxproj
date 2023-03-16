@@ -19,19 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Tetris(project)\Tetris(project)\Game.cpp" />
-    <ClCompile Include="..\..\Tetris(project)\Tetris(project)\home_scr.cpp" />
-    <ClCompile Include="..\..\Tetris(project)\Tetris(project)\Menu.cpp" />
-    <ClCompile Include="..\..\Tetris(project)\Tetris(project)\Play.cpp" />
-    <ClCompile Include="..\..\Tetris(project)\Tetris(project)\store_data.cpp" />
-    <ClCompile Include="..\..\Tetris(project)\Tetris(project)\Tetris.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Game.h" />
-    <ClInclude Include="home_scr.h" />
-    <ClInclude Include="Menu.h" />
-    <ClInclude Include="Play.h" />
-    <ClInclude Include="store_data.h" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
